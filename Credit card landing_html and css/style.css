@@ -1,0 +1,306 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    max-width: 1440px;
+    position: relative;
+
+}
+.navbar{
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.list1{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    width: 500px;
+    justify-content: center;
+}
+div nav ul li{
+    padding-left: 60px;
+}
+.list2{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    width: 300px;
+}
+.logo{
+    height: 60px;
+    width: 120px;
+    align-self: center;
+}
+.first-div{
+    height: 800px;
+    color: white;
+    background-image: url(./images/backCards.png), url(./images/frontCards.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center , right top;
+    background-color: black;
+}
+h1{
+    font-size: 70px;
+    padding-top: 80px;
+    padding-left: 60px;
+}
+.Hurry{
+    padding-left: 60px;
+    padding-top: 50px;
+}
+h3{
+    padding-left: 60px;
+    padding-top: 100px;
+}
+.lastbar{
+    display: flex;
+    color: white;
+    padding-left: 60px;
+    padding-top: 100px;
+}
+h2{
+    font-size: 30px;
+    padding-left: 10px;
+}
+.second-cont{
+    height: 180px;
+    background-color: rgb(70, 68, 68);
+}
+.row-logo{
+    justify-self: center;
+    align-self: center;
+    padding: 60px;
+}
+.third-cont{
+    height: 1000px;
+    background-color: black;
+}
+.part-one{
+    display: flex;
+}
+.left{
+    width: 60%;
+    color: white;
+    font-size: 80px;
+    margin-top: 130px;
+    margin-left: 80px;
+}
+.right{
+    width: 40%;
+    color: rgb(92, 87, 87);
+    margin-top: 230px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.dollar{
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    border: 1px white solid;
+
+}
+.cloud{
+    margin-left: 220px;
+    margin-bottom: 90px;
+    width: 300px;
+    height: 300px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    border: 1px white solid;
+}
+.lock{
+    margin-left: 150px;
+    width: 300px;
+    height: 300px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    border: 1px white solid;
+}
+.img-text{
+    display: flex;
+    
+}
+.boxes{
+    position: relative;
+}
+.dollar-text{
+    color: white;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 160px;
+    font-size: 20px;
+}
+.cloud-text{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -170px;
+    margin-left: 680px;
+    width: 200px;
+}
+.lock-text{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    margin-top: -50px;
+    margin-left: 1140px;
+}
+.fourth-cont{
+    height: 1000px;
+    background-color: rgb(238, 223, 223);
+    background-image: url(./images/VCards.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 700px;
+}
+.line-one{
+    margin-left: 250px;
+    padding-top: 150px;
+    font-weight: 100;
+}
+.line-two{
+    margin-left: 400px;
+    padding-top: 30px;
+    color: rgb(136, 16, 136);
+}
+.line-three{
+    width: 650px;
+    align-self: center;
+    margin-left: 380px;
+    padding-top: 40px;
+}
+.fifth-cont{
+    background-color: black;
+    height: 1000px;
+}
+.heading{
+    color: white;
+    width: 1000px;
+    font-size: 70px;
+    font-weight: 100;
+    margin-left: 200px;
+    text-align: center;
+}
+.para{
+    color: white;
+    text-align: center;
+    width: 600px;
+    margin-left: 410px;
+    padding-top: 60px;
+    font-size: 20px;
+    
+}
+.box-one{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.box-two{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.one{
+    border: 1px white solid;
+    height: 180px;
+}
+.two{
+    border: 1px white solid;
+    height: 180px;
+}
+.three{
+    border: 1px white solid;
+    height: 180px;
+}
+.four{
+    border: 1px white solid;
+    height: 180px;
+}
+.star-one{
+    color: white;
+    width: 350px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.star-two{
+    color: white;
+    width: 350px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.star-three{
+    color: white;
+    width: 350px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.star-four{
+    color: white;
+    width: 350px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+#star{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.sixth-cont{
+    height: 700px;
+    background-color: black;
+    background-image: url(./images/Diamond-left.png),  url(./images/Diamond-right.png), url(./images/Rectangle\ 6774.png), url(./images/Rectangle\ 6773.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position:  top right, top left, top center, top center;
+}
+.card{
+    color: white;
+    width: 1000px;
+    font-weight: 100;
+    text-align: center;
+    margin-left: 190px;
+}
+.card-two{
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.end-bar{
+    display: flex;
+}
+.end-list{
+    display: flex;
+    padding-left: 280px;
+}
+.end-list li{
+    list-style-type: none;
+    color: white;
+    font-weight: 200;
+    padding: 30px;
+    margin-top: 280px;
+}
+.last-logo{
+    margin-top: 280px;
+    padding-left: 80px;
+}
+.text-arrow{
+    display: flex;
+}
+.arrow{
+    padding-top: 55px;
+}
