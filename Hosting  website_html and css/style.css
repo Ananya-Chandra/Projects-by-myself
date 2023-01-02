@@ -100,5 +100,100 @@ color: white;
 }
 .div-three{
     height: 700px;
+    width: 100%;
     background-color: white;
+}
+.h-2{
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 55px;
+}
+.p-2{
+    width: 600px;
+    margin-left: 420px;
+    margin-top: 50px;
+    text-align: center;
+    color: gray;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 250px;
+}
+.fast{
+    margin-top: 150px;
+    margin-left: -180px;
+    border: 1px gray solid;
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.signal{
+    margin-top: 80px;
+    margin-left: 20px;
+    border: 1px gray solid;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.heart{
+    margin-top: 150px;
+    margin-right: 50px;
+    border: 1px gray solid;
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.fast-h{
+    margin-left: -40px;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.signal-h{
+    margin-left: -50px;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.heart-h{
+    margin-left: -30px; 
+    margin-top: 30px;
+    font-size: 22px; 
+}
+.fast-p{
+    text-align: center;
+    margin-left: -20px;
+    margin-top: 20px;
+    width: 200px;
+}
+.signal-p{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -30px;
+    width: 200px;
+}
+.heart-p{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -30px;
+    width: 200px;
+}
+.fast-img{
+    width: 80px;
+    margin-left: 25px;
+}
+.signal-img{
+    width: 80px;
+    margin-left: 25px;
+}
+.heart-img{
+    width: 80px;
+    margin-left: 25px;
 }
