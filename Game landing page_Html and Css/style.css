@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    width: 1440px;
+    border: 1px black solid;
+}
+.div-one{
+    background-image: url(./images/futuristic-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+nav{
+    display: flex;
+}
+.nav-list{
+    display: flex;
+    color: white;
+    list-style: none;
+    margin-left: 100px;
+    width: 500px;
+    justify-content: space-around;
+}
+.logo{
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.btn-in{
+    margin-left: 250px;
+    width: 100px;
+}
