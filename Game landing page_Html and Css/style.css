@@ -88,5 +88,57 @@ nav{
     margin-left: 270px;
 }
 .p-2{
-    
+   margin-top: 130px;
+   margin-left: -70px;
+   font-size: 30px;
+   width: 300px;
+}
+.p-2::before{
+    content: url(./images/dash.svg);
+    margin-left: -40px;
+    padding-top: -30px;
+}
+.p-2::after{
+    content: url(./images/nextArrow.svg);
+    margin-left: 200px;
+}
+.div-two{
+    height: 800px;
+}
+.h-2{
+    padding-left: 350px;
+    padding-top: 120px;
+    width: 1100px;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.img-list{
+    display: flex;
+}
+.img-one{
+    width: 280px;
+    height: 330px;
+    margin-left: 110px;
+    margin-top: 100px;
+    blur-width: 300px;
+    blur-height: 200px;
+}
+.img-two{
+    width: 280px;
+    height: 330px; 
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.img-three{
+    width: 280px;
+    height: 330px; 
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.img-four{
+    width: 280px;
+    height: 330px; 
+    margin-top: 100px;
+    margin-left: 30px;
 }
