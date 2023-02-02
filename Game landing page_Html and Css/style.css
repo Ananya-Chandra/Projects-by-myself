@@ -121,8 +121,6 @@ nav{
     height: 330px;
     margin-left: 110px;
     margin-top: 100px;
-    blur-width: 300px;
-    blur-height: 200px;
 }
 .img-two{
     width: 280px;
@@ -141,4 +139,57 @@ nav{
     height: 330px; 
     margin-top: 100px;
     margin-left: 30px;
+}
+.div-three{
+    height: 600px;
+    display: flex;
+}
+.left-img{
+    width: 50%;
+    height: 450px;
+    width: 550px;
+    margin-top: 40px;
+    margin-left: 110px;
+}
+.h-3{
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-right: 100px;
+    font-size: 60px;
+    align-items: center;
+}
+.p-3{
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-right: 100px;
+    line-height: 30px;
+    columns: rgb(160, 159, 159);
+}
+.down-btn{
+    margin-top: 40px;
+    margin-left: 80px;
+    height: 50px;
+    width: 160px;
+    font-size: 15px;
+}
+#left-btn{
+    background-color: #f76558;
+    color: white;
+    border: none;
+}
+#right-btn{
+    border:1px solid #f76558;
+    color: #f76558;
+    margin-left: 20px;
+}
+.div-four{
+    height: 800px;
+}
+.h-4{
+    font-size: 40px;
+    font-weight: 900;
+    text-align: left;
+    width: 550px;
+    padding-top: 40px;
+    margin-left: 110px;
 }
