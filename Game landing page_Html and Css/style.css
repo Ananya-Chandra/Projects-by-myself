@@ -180,10 +180,11 @@ nav{
 #right-btn{
     border:1px solid #f76558;
     color: #f76558;
+    background-color: white;
     margin-left: 20px;
 }
 .div-four{
-    height: 800px;
+    height: 850px;
 }
 .h-4{
     font-size: 40px;
@@ -192,4 +193,59 @@ nav{
     width: 550px;
     padding-top: 40px;
     margin-left: 110px;
+}
+.img-1{
+    height: 300px;
+    width: 250px;
+    margin-left: 110px;
+    padding: 20px;
+}
+.line{
+    display: flex;
+}
+.top-img{
+    margin-top: 40px;
+}
+.img-para{
+    display: flex;
+}
+.h-5{
+    margin-top: 70px;
+}
+.h-6{
+    margin-top: 30px;
+}
+.h-7{
+    color: #f76558;
+    margin-top: 20px;
+}
+.p-4{
+    margin-top: 30px;
+}
+.btn-d{
+    margin-top: 40px;
+    width: 120px;
+    height: 40px;
+    background-color: #f76558;
+    color: white;
+    border: none;
+}
+.top{
+    display: flex;
+}
+.left-arrow{
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 6px;
+    height: 50px;
+    width: 50px;
+    background-color: #cab1ae;
+}
+.right-arrow{
+    margin-top: 100px;
+    margin-left: 20px;
+    padding: 6px;
+    height: 50px;
+    width: 50px;
+    background-color: #f76558;
 }
