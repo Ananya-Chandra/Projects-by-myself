@@ -288,3 +288,27 @@ nav{
     margin-left: 560px;
     margin-top: 130px;
 }
+.div-six{
+    height: 1000px;
+    background-color: black;
+}
+.bg{
+    width: 1300px;
+    height: 500px;
+    z-index: -1;
+    opacity: 0.3;
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+.h-9{
+    color: white;
+    font-size: 45px;
+    width: 500px;
+    margin-top: -400px;
+    margin-left: 500px;
+    text-align: center;
+}
+.p-6{
+    color: gray;
+}
