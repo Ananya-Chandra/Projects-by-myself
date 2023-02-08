@@ -298,8 +298,7 @@ nav{
     z-index: -1;
     opacity: 0.3;
     margin-top: 20px;
-    margin-left: 100px;
-
+    margin-left: 60px;
 }
 .h-9{
     color: white;
@@ -311,4 +310,48 @@ nav{
 }
 .p-6{
     color: gray;
+    margin-left: 550px;
+    margin-top: 30px;
+    width: 400px;
+    text-align: center;
+}
+.btn-start{
+    width: 150px;
+    height: 50px;
+    margin-left: 670px;
+    margin-top: 30px;
+    background-color: #f76558;
+    color: white;
+    opacity: 0.9;
+    font-size: large;
+}
+.down-one{
+    margin-top: 170px;
+    margin-left: 140px;
+}
+.p-7{
+    color: gray;
+    width: 300px;
+    margin-top: 20px;
+}
+.three-img{
+    margin-top:  30px;
+}
+.down-two{
+    display: flex;
+    margin-top: 170px;
+}
+.list-one{
+    color: gray;
+    margin-left: 90px;
+    list-style: none;
+    line-height: 50px;
+    font-size: 15px;
+}
+.down{
+    display: flex;
+}
+.h-10{
+    font-weight: 1000;
+    color: white;
 }
