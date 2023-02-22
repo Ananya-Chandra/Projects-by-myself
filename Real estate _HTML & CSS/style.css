@@ -70,6 +70,15 @@ hr{
     width: 1340px;
     border-radius: 30px;
 }
-/* .logo-list{
-
-} */
+.logo-list{
+    margin: 40px 90px;
+}
+.div-3{
+    height: 900px;
+    background-color: rgb(255, 255, 245);
+}
+.h-2{
+    padding: 150px 550px;
+    font-size: 40px;
+    text-align: center;
+}
